@@ -13,7 +13,6 @@
 <h3 align="center">I am a 23-year-old Web Developer currently based in Spain. I consider myself passionate, though I say this because it's what everyone says. But what I truly find important is that I don't like giving up.</h3>
 
 <br>
-<br>
 <hr>
 
 - 🌱 I'm currently studying **JavaScript, Bootstrap, ReactJS y PHP.**
@@ -21,7 +20,6 @@
 - ​🔮​ I want to study soon **CiberSeguridad, Python, MongoDB y C++(esto es mas enfocado a lo personal ya que me gustaria saber como desarrolla un juego).**
 
 - 📫 To contact me **dpb28fpb@gmail.com**
-<br>
 <br>
 <hr>
 
