@@ -1,4 +1,7 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+Soy+Daulin" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+Soy+Daulin" alt="Typing SVG" />
+
+</a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8245&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="images/logo.PNG" />
