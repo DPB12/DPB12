@@ -1,6 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+Soy+Daulin" alt="Typing SVG" /></a></p>
 
-![banner](images/logo.png)
+![banner](images/logo.PNG)
 
 <h3 align="center">Soy un Desarrollador Web de 23 años de edad que actualmente se encuentra en España. Me considero apasionado pero lo digo porque es lo que pone todo el mundo pero lo que considero mas importante es que no me gusta rendirme.</h3>
 
