@@ -47,13 +47,10 @@ alt="SQL" width="40" height="40">
 
 <h3 align="center">Technologies and Tools</h3>
     <div align="center">
-      <img src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
       <img src="https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
       <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
     </div>
