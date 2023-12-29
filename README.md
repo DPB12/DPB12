@@ -6,39 +6,67 @@
   <img src="images/logo.PNG" />
 </p>
 
+<br>
+<br>
 <hr>
 
-<h3 align="center">Soy un Desarrollador Web de 23 años de edad que actualmente se encuentra en España. Me considero apasionado pero lo digo porque es lo que pone todo el mundo pero lo que considero mas importante es que no me gusta rendirme.</h3>
+<h3 align="center">I am a 23-year-old Web Developer currently based in Spain. I consider myself passionate, though I say this because it's what everyone says. But what I truly find important is that I don't like giving up.</h3>
 
+<br>
+<br>
 <hr>
 
-- 🌱 Actualmente estoy estudiando **JavaScript, Bootstrap, ReactJS y PHP.**
+- 🌱 I'm currently studying **JavaScript, Bootstrap, ReactJS y PHP.**
 
-- ​🔮​ Quier estudiar prximamente **CiberSeguridad, Python, MongoDB y C++(esto es mas enfocado a lo personal ya que me gustaria saber como desarrolla un juego).**
+- ​🔮​ I want to study soon **CiberSeguridad, Python, MongoDB y C++(esto es mas enfocado a lo personal ya que me gustaria saber como desarrolla un juego).**
 
-- 📫 Contactarme **dpb28fpb@gmail.com**
+- 📫 To contact me **dpb28fpb@gmail.com**
+<br>
+<br>
+<hr>
 
 <h3 align="center">Languages</h3>
-<p align="center">
 
-<img style="padding: 4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<div align="center">
 
+<img style="padding: 4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+alt="css3" width="40" height="40"/>
 <img style="padding: 4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-
-<img style="padding: 4px;" src="https://img.shields.io/badge/Java%20-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-
+<img style="padding: 4px;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_plain_wordmark_logo_icon_146457.png" alt="Java"
+alt="java" width="40" height="40">
 <img style="padding: 4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-<img style="padding: 4px;" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-
+<img style="padding: 4px;" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png"
+alt="SQL" width="40" height="40">
 <img style="padding: 4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 
-</p>
+</div>
 
 <h3 align="center">Frameworks</h3>
- <p align="center">
-   <img src="https://img.shields.io/badge/React.js%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js">
-   <img src="https://img.shields.io/badge/Symfony%20-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
- </p>
+    <div align="center">
+        <img src="https://img.shields.io/badge/React.js%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js">
+        <img src="https://img.shields.io/badge/Symfony%20-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+    </div>
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<h3 align="center">Technologies and Tools</h3>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+      <img src="https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+    </div>
+<br>
+<br>
+<hr>
+
+<h3 align="left">Statistics:</h3>
+<p align="center">
+<a href="https://github.com/DPB12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DPB12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DPB12&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
